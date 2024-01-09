@@ -1,0 +1,6 @@
+inp_img_pth : /media/ioptime/HDD_11/Cards_Data/labelled_data/Players_detection_data/Data/Data3/test/images
+inp_lab_pth : /media/ioptime/HDD_11/Cards_Data/labelled_data/Players_detection_data/Data/Data3/test/labels
+out_img_pth : /media/ioptime/HDD_11/Cards_Data/labelled_data/Players_detection_data/Data/Data3/Augmented/images
+out_lab_pth : /media/ioptime/HDD_11/Cards_Data/labelled_data/Players_detection_data/Data/Data3/Augmented/labels
+transformed_file_name : aug_out_test(Tosepia)
+CLASSES : ['dock', 'player1', 'player2', 'player3', 'player4']
