@@ -1,4 +1,4 @@
-# AI PLaying Cards Custom Object Detection Using YOLOv5
+# AI Playing Cards Custom Object Detection Using YOLOv5
 
 ## Table of Contents
 
