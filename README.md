@@ -38,9 +38,9 @@ This project aims to detect and classify playing cards using the YOLOv5 object d
     ```
 4. Helping Scripts:
     This Repository has 4 Helping Scripts which can be used for multiple tasks and there details are given in their respective folders
-    - [Augmentation(Albumentations)](https://github.com/ioptime-official/ai-playing-cards/tree/main/Augmentation(Albumentation) for image augmentation
-    - [Draw_BBOX]([https://github.com/ioptime-official/ai-playing-cards/tree/main/Augmentation(Albumentation)](https://github.com/ioptime-official/ai-playing-cards/tree/main/Draw_BBOX)for BBOX visualization on images
-    - Class sepreation script is in [Seperate_classes](https://github.com/ioptime-official/ai-playing-cards/tree/main/Seperate_classes) 
+    - [Augmentation(Albumentations)](https://github.com/ioptime-official/ai-playing-cards/tree/main/Augmentation(Albumentation)) for image augmentation
+    - [Draw_BBOX ](https://github.com/ioptime-official/ai-playing-cards/tree/main/Augmentation(Albumentation)](https://github.com/ioptime-official/ai-playing-cards/tree/main/Draw_BBOX))for BBOX visualization on images
+    - Class sepreation script is in [Seperate_classes](https://github.com/ioptime-official/ai-playing-cards/tree/main/Seperate_classes)
     - [class_mapping](https://github.com/ioptime-official/ai-playing-cards/tree/main/class_mapping) maps the classes to whatever class number you want
 ## Dataset Preparation
 
