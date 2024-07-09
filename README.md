@@ -49,14 +49,15 @@ This project aims to detect and classify playing cards using the YOLOv5 object d
 3. Organize the dataset into the following structure:
     ```
     data/
-        images/
-            train/
-            test/
-            valid/
-        labels/
-            train/
-            test/
-            valid/
+        train/
+            images/
+            labels/
+        valid/
+            images/
+            labels/
+        test/
+            images/
+            labels/
     ```
 
 4. Update the `data.yaml` file to reflect the dataset structure:
